@@ -3,7 +3,6 @@
 ### Hello TechCamp7
 
 # Patchimanon Vorravanpreecha
-# Classy Vanswangsit
 # Phawat Lekkla
 # Patchimanon Vorravanpreecha
 # Natthanicha Sriphrom
@@ -15,6 +14,7 @@
 # Kritsachon Janhompradit
 # Ashita Leelitsajja
 # Narathon Sakrasan
+# Classy Vanswangsit
 
 
 
