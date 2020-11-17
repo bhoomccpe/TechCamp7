@@ -7,7 +7,7 @@
 ## Kanet Kampiranon (Netto)
 # Akkawin Kanchanaratanakorn
 # wiwath ratsmee
-# Akkawin Kanchanaratanakorn
+# Supagid Gidvarowart
 # Kanthamanee Waenvised
 # Kritsachon Janhompradit
 
