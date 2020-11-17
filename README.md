@@ -4,11 +4,16 @@
 
 # Patchimanon Vorravanpreecha
 # Classy Vanswangsit
-=======
 # Phawat Lekkla
 # Patchimanon Vorravanpreecha
-
-# Akkawin Kanchanaratanakorn
 # Natthanicha Sriphrom
 ## Kanet Kampiranon (Netto)
 # Akkawin Kanchanaratanakorn
+# wiwath ratsmee
+# Supagid Gidvarowart
+# Kanthamanee Waenvised
+# Kritsachon Janhompradit
+# Ashita Leelitsajja
+
+
+
